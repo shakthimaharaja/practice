@@ -1,4 +1,4 @@
-console.log("hello maharaja");
+console.log("hello world");
 console.log("hello hari");
 
 
